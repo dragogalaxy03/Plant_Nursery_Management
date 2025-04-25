@@ -23,7 +23,6 @@ Service Layers, Data Access Layers to generate different end points. Features:
 1. Built authentication while login and logout using key.
 2. Stored the data on MySQL and used it for Authentication.
 3. Deployed the website on GitHub.
-4. collaborative project built by a team of 4, delivered in 4 days.
 
 
 <table>
@@ -45,16 +44,5 @@ Service Layers, Data Access Layers to generate different end points. Features:
 - **MySQL**
 
 
-## Contributors
-👤 [Hemant Sharma](github.com/hemant097)
-
-
-👤 [Priyobrato Banik](github.com/priyobratobanik)
-
-
-👤 [Rajnish Kumar](github.com/Rajnish1234567)
-
-
-👤 [Dilip kumar](github.com/itsmedudes)
 
 
